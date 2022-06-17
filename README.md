@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-I develop softwares
+A petroleum engineer in love with software engineering
 
 - ✨ interests: software development, economics, philosophy, technology
 - 🌐 website: 🖥️ click [here](www.suhail.work)
