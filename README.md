@@ -3,7 +3,7 @@
 
 
 - ✨ interests: software development, economics, philosophy, technology
-- 🌐 website: 🖥️ click [here](www.suhail.bio)
+- 🌐 website: 🖥️ click [here](https://www.suhail.bio/)
 
 <!--
 **suhail609/suhail609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
